@@ -32,7 +32,7 @@ const Hero = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.4, duration: 0.5 }}
               >
-                Rishabh Raj
+                Niku Kumar
               </motion.h1>
               <motion.h2 
                 className="text-2xl sm:text-3xl text-gray-300 font-light"

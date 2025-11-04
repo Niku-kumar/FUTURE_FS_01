@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const About = () => {
   const personalInfo = [
-    { icon: <User size={20} />, label: 'Name', value: 'Rishabh Raj' },
+    { icon: <User size={20} />, label: 'Name', value: 'Niku Kumar' },
     { icon: <Calendar size={20} />, label: 'Experience', value: '5+ Years' },
     { icon: <MapPin size={20} />, label: 'Location', value: 'San Francisco, CA' },
     { icon: <Award size={20} />, label: 'Degree', value: 'B.S. Computer Science' },
